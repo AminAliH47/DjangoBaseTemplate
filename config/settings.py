@@ -56,6 +56,7 @@ INSTALLED_APPS = [
     'drf_spectacular',
 
     # Django Apps
+    'common.apps.CommonConfig',
 
     'django_cleanup.apps.CleanupConfig',
 ]

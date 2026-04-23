@@ -54,6 +54,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_celery_beat',
     'drf_spectacular',
+    'cacheops',
 
     # Django Apps
     'common.apps.CommonConfig',
